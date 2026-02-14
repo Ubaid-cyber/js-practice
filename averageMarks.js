@@ -8,4 +8,4 @@ for (let i=0; i<averageMarks.length;i++){
     sum = sum+averageMarks[i];
 }
 let ave= sum/averageMarks.length;
- console.log(ave);
+console.log(ave);

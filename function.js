@@ -11,8 +11,7 @@ function ubaid (str){
     return count;
 
 }
-let str =prompt("Enter Your String ")
-
+let str = 'hello';
 let result = ubaid(str);
 
 console.log(result);
